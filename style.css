@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #FFC300;
+}
+.my_title{
+  color: #001D3D;
+  font-size: 3em;
+}
